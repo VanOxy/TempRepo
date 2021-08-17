@@ -1,0 +1,13 @@
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.exe
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.deps.json
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.runtimeconfig.json
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.runtimeconfig.dev.json
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.dll
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\bin\Debug\netcoreapp3.1\Eonix1.pdb
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.csproj.AssemblyReference.cache
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.AssemblyInfoInputs.cache
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.AssemblyInfo.cs
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.csproj.CoreCompileInputs.cache
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.dll
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.pdb
+C:\Users\boss\Desktop\.NET\Eonix\Eonix1\Eonix1\obj\Debug\netcoreapp3.1\Eonix1.genruntimeconfig.cache

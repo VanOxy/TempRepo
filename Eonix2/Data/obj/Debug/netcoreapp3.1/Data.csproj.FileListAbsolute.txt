@@ -1,0 +1,9 @@
+C:\Users\boss\Desktop\.NET\Eonix\Eonix2\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\boss\Desktop\.NET\Eonix\Eonix2\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\boss\Desktop\.NET\Eonix\Eonix2\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\boss\Desktop\.NET\Eonix\Eonix2\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+C:\Users\boss\Desktop\.NET\Eonix\Eonix2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\boss\Desktop\.NET\Eonix\Eonix2\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\boss\Desktop\.NET\Eonix\Eonix2\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\boss\Desktop\.NET\Eonix\Eonix2\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\boss\Desktop\.NET\Eonix\Eonix2\Data\obj\Debug\netcoreapp3.1\Data.pdb
